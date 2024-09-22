@@ -1,0 +1,5 @@
+torch
+transformers
+Pillow
+numpy
+sentencepiece
