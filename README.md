@@ -55,13 +55,8 @@ Flux Prompt Generator is a custom node set for ComfyUI that enhances prompt gene
 
 ## Requirements
 
-See `requirements.txt` for a full list of dependencies. Key requirements include:
-- Python 3.8+
-- torch
-- transformers
-- Pillow
-- numpy
-- sentencepiece
+you need ollama running on ur pc
+u need some ollama model downloaded
 
 ## Contributing
 
