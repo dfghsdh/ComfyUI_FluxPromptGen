@@ -1,8 +1,10 @@
-# Flux Prompt Generator for ComfyUI
+# Flux Prompt Generator for ComfyUI (use ollama llms to enhance prompts)
 
 ## Overview
 PORT OF https://huggingface.co/Aitrepreneur/FLUX-Prompt-Generator for COMFYUI
+
 Flux Prompt Generator is a custom node set for ComfyUI that enhances prompt generation and image captioning capabilities. It integrates advanced language models and image captioning techniques to provide versatile and powerful prompt manipulation tools for your AI image generation workflows.
+
 ![workflow](https://github.com/user-attachments/assets/92df5a01-751a-4f5c-9b31-6689870983f0)
 
 ## Features
