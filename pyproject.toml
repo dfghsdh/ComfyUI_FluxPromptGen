@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_fluxpromptgen"
+description = "Flux Prompt Generator is a custom node set for ComfyUI that enhances prompt generation and image captioning capabilities. It integrates advanced language models and image captioning techniques to provide versatile and powerful prompt manipulation tools for your AI image generation workflows.\nNOTE:PORT OF [a/https://huggingface.co/Aitrepreneur/FLUX-Prompt-Generator](https://huggingface.co/Aitrepreneur/FLUX-Prompt-Generator) for COMFYUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["torch", "transformers", "Pillow", "numpy", "sentencepiece"]
+
+[project.urls]
+Repository = "https://github.com/dfghsdh/ComfyUI_FluxPromptGen"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_FluxPromptGen"
+Icon = ""
